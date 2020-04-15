@@ -12,4 +12,9 @@ else
 	 
 	 Soicety is fighting against COVID-19
 	 
-	 
+	 If( hope will success)
+Print( " World will change")
+
+else 
+
+Print(	 God will create new world)
