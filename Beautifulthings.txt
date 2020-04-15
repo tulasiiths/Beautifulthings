@@ -1,1 +1,10 @@
-"Min att g”ra-lista" 
+"Min att göra-lista" 
+
+if ( Corona Virus === disappear)
+
+   Print("Human will win");
+else
+
+     Print("Human destroy world");
+	 
+	 Soicety is fighting against COVID-19
