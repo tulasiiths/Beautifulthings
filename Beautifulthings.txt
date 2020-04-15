@@ -3,6 +3,10 @@
 if ( Corona Virus === disappear)
 
    Print("Human will win");
+   
+   if (Polices and Society === fail)
+   
+   print("Human control Fail");
 else
 
      Print("Human destroy world");
