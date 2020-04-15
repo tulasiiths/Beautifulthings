@@ -3,12 +3,25 @@
 if ( Corona Virus === disappear)
 
    Print("Human will win");
+
    
    if (Polices and Society === fail)
    
    print("Human control Fail");
+
+   if (doctors = fail)
+   
+   Print("Human survival may be difficult);
+
 else
 
      Print("Human destroy world");
 	 
 	 Soicety is fighting against COVID-19
+	 
+	 If( hope will success)
+Print( " World will change")
+
+else 
+
+Print(	 God will create new world)
