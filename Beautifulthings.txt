@@ -3,8 +3,13 @@
 if ( Corona Virus === disappear)
 
    Print("Human will win");
+   if (doctors = fail)
+   
+   Print("Human survival may be difficult);
 else
 
      Print("Human destroy world");
 	 
 	 Soicety is fighting against COVID-19
+	 
+	 
